@@ -1,0 +1,5 @@
+export const SET_CITYCODE = 'SET_CITYCODE'
+
+export const SET_SEARCH_HISTORY = 'SET_SEARCH_HISTORY'
+
+//export const SET_WARMPROMPT = 'SET_WARMPROMPT'
